@@ -1,6 +1,6 @@
 # Config files
-.config.py
-.Config.py
+config.py
+Config.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
